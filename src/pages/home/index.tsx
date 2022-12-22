@@ -14,6 +14,8 @@ const Home = () => {
         navigate('/login')
     }
 
+    
+
     return (<>
         <Header />
         <Container>
